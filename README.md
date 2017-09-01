@@ -15,3 +15,6 @@ Write an application using object-oriented Python. Make this application serve H
 * If you want to fetch movie data from the TMDB API it is necessary to aquire an API Key first. It is free and you can aquire signing up at https://www.themoviedb.org/account/signup?language=en. After you get the key, please edit the file ```entertainment_center.py``` and ADD it at ```API_KEY```
 * In no API Key scenario, movie data will be loaded from a static CSV file
 * Run ```entertainment_center.py```
+
+### Output
+A result demo can be checked [here](https://walternunes.github.io/FSDN-P1/fresh_tomatoes.html)
